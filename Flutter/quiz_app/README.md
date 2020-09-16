@@ -1,5 +1,5 @@
 # quiz_app
+![](images/q1.PNG)
+![](images/q2.PNG)
 
-![](images/quiz1.PNG)
-![](images/quiz2.PNG)
 
