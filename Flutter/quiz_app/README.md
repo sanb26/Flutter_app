@@ -1,7 +1,6 @@
 # quiz_app
 
 A new Flutter project.
-![]()images/correct.png
 
 ## Getting Started
 
